@@ -9,7 +9,6 @@
 ## 👩‍🎓 Student Information
 - **Name:** Ashmitha Kumbham  
 - **Student ID:** 700773518  
-- **GitHub Repo:** https://github.com/<your-username>/CS5710-ML-Homework1  
 
 ---
 
